@@ -6,4 +6,4 @@
 
 --------
 
-![Alt text](/DGB_Clustering/tree/master/datasets/density-map-t710k.jpg?raw=true "example-density map of t7.10k")
+![Alt text](/DGB_Clustering/tree/master/datasets/density-map-t710k.jpg "example-density map of t7.10k")
