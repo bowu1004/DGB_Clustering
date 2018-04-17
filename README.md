@@ -1,4 +1,4 @@
-# DGB_Clustering
+# DGB_Clustering: density and grid based clustering
 
 **Publisher:** Bo Wu
 
