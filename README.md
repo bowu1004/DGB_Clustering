@@ -1,6 +1,6 @@
 # DGB_Clustering: density and grid based clustering
 
-**Publisher:** Bo Wu
+**Publisher:** Bo Wu et al.
 
 **Reference:** [A Fast Density and Grid Based Clustering Method for Data with Arbitrary Shapes and Noise](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7744455)
 
