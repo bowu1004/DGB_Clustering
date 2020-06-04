@@ -6,7 +6,9 @@
 
 --------
 **How to run**
+
 Clone this repository and run the `main.m` Matlab file.
+
 
 **Example**
 
