@@ -1,3 +1,4 @@
+#[DGBClustering](https://img.shields.io/badge/Clustering-matlab-brightgreen)
 # DGB_Clustering: density and grid based clustering [Matlab]
 
 **Publisher:** Bo Wu et al.
